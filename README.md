@@ -120,6 +120,14 @@ Built for environments where data privacy matters — research papers, legal doc
 
 The novel (*40 Rules of Love*) is used purely as a demo to showcase the RAG pipeline. The real value is that **any confidential document stays entirely on your machine** — no OpenAI, no cloud logging, no internet required after setup.
 
+## 📸 Demo
+
+**What-If Reasoning Mode**
+![What-If Reasoning](ss%202.JPG)
+
+**Fact Retrieval Mode**
+![Fact Retrieval](literary%20chatbot%20ss.JPG)
+
 ## 👤 Author
 
 **Kaiful Waraa**  
